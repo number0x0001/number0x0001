@@ -1,4 +1,4 @@
-### Hi there 👋
+![Welcome to my profile!](https://cdn-images-1.medium.com/max/1600/1*g3zcRSjUu50p7_1brc9c2Q.gif)
 
 <!--
 **number0x0001/number0x0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
