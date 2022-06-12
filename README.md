@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/number0x0001/number0x0001/main/827020538.jpg)]([your GitHub link](https://github.com/number0x0001))
+![MasterHead](https://raw.githubusercontent.com/number0x0001/number0x0001/main/827020538.jpg)]([your GitHub link](https://github.com/number0x0001))
 
 
 ![Welcome to my profile!](https://cdn-images-1.medium.com/max/1600/1*g3zcRSjUu50p7_1brc9c2Q.gif)
