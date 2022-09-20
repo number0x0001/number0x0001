@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=discord,github,instagram,linux,raspberrypi,twitter,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,github,instagram,linux,raspberrypi,twitter,&theme=dark)](https://bio.link/abham)
 
 ![status](https://dev.discordprofiles.me/badge/status/778333176861949953?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/778333176861949953)
