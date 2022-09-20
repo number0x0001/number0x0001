@@ -4,6 +4,8 @@
 
 ![MasterHead](https://raw.githubusercontent.com/number0x0001/number0x0001/main/827020538.jpg)
 
+[![My Skills](https://skillicons.dev/icons?i=discord,github,instagram,linux,raspberrypi,twitter,&theme=dark)](https://skillicons.dev)
+
 
 <!-- ![Welcome to my profile!](https://cdn-images-1.medium.com/max/1600/1*g3zcRSjUu50p7_1brc9c2Q.gif) -->                                                
 <!-- [![number0x01's github stats](https://github-readme-stats.vercel.app/api?username=number0x01&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
