@@ -4,7 +4,7 @@
 ![playing](https://dev.discordprofiles.me/badge/playing/778333176861949953)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/778333176861949953)](https://dev.discordprofiles.me/openspotify/778333176861949953)
 
-[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-4/778333176861949953.png))](https://discord.com)
+[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/778333176861949953.png))](https://discord.com)
 
 ![MasterHead](https://raw.githubusercontent.com/number0x0001/number0x0001/main/827020538.jpg)
 
