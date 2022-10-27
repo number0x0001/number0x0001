@@ -1,4 +1,4 @@
-<p align="center"> [![My Skills](https://skillicons.dev/icons?i=discord,github,instagram,linux,raspberrypi,twitter,&theme=dark)](https://numr.one)
+<p align="center">[![My Skills](https://skillicons.dev/icons?i=discord,github,instagram,linux,raspberrypi,twitter,&theme=dark)](https://numr.one)
 
 [![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/778333176861949953.png)](https://discord.gg/5a7ve9rmee)
 
